@@ -1,0 +1,26 @@
+Name: Rahul Verma
+
+Education:
+B.Tech in Computer Science, IIT Hyderabad
+
+Experience:
+2 years
+
+Data Scientist Intern at TechLabs:
+- Built machine learning models for customer churn prediction
+- Improved model accuracy by 18%
+- Worked on NLP-based sentiment analysis project
+
+Projects:
+- Fake News Detection using NLP
+- Image Classification using CNN
+- Recommendation System using collaborative filtering
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP, SQL, Pandas, NumPy, Scikit-learn
+
+Tools:
+TensorFlow, PyTorch, Jupyter Notebook, Git, Matplotlib, Seaborn
+
+Achievements:
+- Kaggle Top 10% in ML competition
